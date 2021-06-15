@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer">Emmanuel Mendez</a></h1>
 
-I'm a web development enthusiast that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
+I'm a web developer that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true)
 ## Contact
