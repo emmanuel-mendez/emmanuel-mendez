@@ -26,7 +26,7 @@ I'm a web developer that love create landing pages, single-page applications, ec
 </br>
 And more...
 
-## CONTACT
+## FIND ME
 [![Website](https://img.shields.io/badge/Website-emmanuelmendez.netlify.app-283e4a?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white)](https://emmanuelmendez.netlify.app/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white)](https://www.linkedin.com/in/emmanelos/)
@@ -34,3 +34,6 @@ And more...
 [![Facebook](https://img.shields.io/badge/Facebook-@emmanelos-1877F2?style=for-the-badge&logo=facebook&logoColor=black&labelColor=white)](https://facebook.com/emmanelos)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@emmanelos-E4405F?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white)](https://instagram.com/emmanelos)
+
+## CONTACT
+[![Email](https://img.shields.io/badge/emmanelosg@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white)](mailto:emmanelosg@gmail.com)
