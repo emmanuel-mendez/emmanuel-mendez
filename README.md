@@ -1,4 +1,4 @@
-<p align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/emmanelos/emmanuel-mendez/710e1fec6c568315471ff7f61ef56dd508a5c18e/src/svg/logo.svg" alt="Vue logo"></a></p>
+<p align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer"><img width="192" src="https://raw.githubusercontent.com/emmanelos/emmanuel-mendez/710e1fec6c568315471ff7f61ef56dd508a5c18e/src/svg/logo.svg" alt="Vue logo"></a></p>
 
 <h1 align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer">EMMANUEL MENDEZ</a></h1>
 
@@ -6,7 +6,7 @@ I'm a web developer that love create landing pages, single-page applications, ec
 
 ![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true)
 
-## SKILLS:
+## SKILLS
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&labelColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white)]()
