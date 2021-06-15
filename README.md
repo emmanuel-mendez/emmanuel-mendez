@@ -4,7 +4,7 @@
 
 I'm a web development enthusiast that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
 
-![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&hide_border=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true)
+![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true)
 ## Contact
  - [LinkedIn](https://www.linkedin.com/in/emmanelos/)
  - [Facebook](https://www.facebook.com/emmanelos/)
