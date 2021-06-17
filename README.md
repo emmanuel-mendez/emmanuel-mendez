@@ -4,10 +4,11 @@
 
 I'm a web developer that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
 
+I'm passionate about what I do and I like to share it with each person who comes here looking for inspiration. If you have questions on any subject send me a email, rest assured that if I don't know how to solve your problem I will help find the solution.
+
 ![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
 
-## SKILLS
-
+## HARD SKILLS
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0f0f0)]()
 </br>
@@ -25,6 +26,19 @@ I'm a web developer that love create landing pages, single-page applications, ec
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=f0f0f0)]()
 </br>
 And more...
+
+## SOFT SKILLS
+![Creativity](https://img.shields.io/badge/Creativity-f0f0f0?style=for-the-badge)
+![Problem solving](https://img.shields.io/badge/Problem%20solving-f0f0f0?style=for-the-badge)
+![Decision making](https://img.shields.io/badge/Decision%20making-f0f0f0?style=for-the-badge)
+![Time management and organization](https://img.shields.io/badge/Time%20management%20and%20organization-f0f0f0?style=for-the-badge)
+![Commitment](https://img.shields.io/badge/Commitment-f0f0f0?style=for-the-badge)
+![Emotional intelligence](https://img.shields.io/badge/Emotional%20intelligence-f0f0f0?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-f0f0f0?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-f0f0f0?style=for-the-badge)
+![Communication skills](https://img.shields.io/badge/Communication%20skills-f0f0f0?style=for-the-badge)
+![People skills and management](https://img.shields.io/badge/People%20skills%20and%20management-f0f0f0?style=for-the-badge)
+![Stress resistance](https://img.shields.io/badge/Stress%20resistance-f0f0f0?style=for-the-badge)
 
 ## FIND ME
 [![Website](https://img.shields.io/badge/Website-emmanuelmendez.netlify.app-283e4a?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=f0f0f0)](https://emmanuelmendez.netlify.app/)
