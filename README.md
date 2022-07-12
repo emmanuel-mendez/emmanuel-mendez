@@ -1,4 +1,4 @@
-<p align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer"><img width="200" src="https://raw.githubusercontent.com/emmanelos/emmanuel-mendez/710e1fec6c568315471ff7f61ef56dd508a5c18e/src/svg/logo.svg" alt="Emmanuel Mendez logo"></a></p>
+<p align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer"><img width="200" src="https://emmanuelmendez.netlify.app/static/media/logo.e1bc1c9f.svg" alt="Emmanuel Mendez logo"></a></p>
 
 <h1 align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer">EMMANUEL MENDEZ</a></h1>
 
