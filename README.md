@@ -1,12 +1,10 @@
-<p align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer"><img width="200" src="https://emmanuelmendez.netlify.app/static/media/logo.e1bc1c9f.svg" alt="Emmanuel Mendez logo"></a></p>
-
 <h1 align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer">EMMANUEL MENDEZ</a></h1>
 
 I'm a web developer that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
 
 I'm passionate about what I do and I like to share it with each person who comes here looking for inspiration. If you have questions on any subject send me a email, rest assured that if I don't know how to solve your problem I will help find the solution.
 
-![Github](https://github-readme-stats.vercel.app/api?username=emmanelos&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
+![Github](https://github-readme-stats.vercel.app/api?username=emmanuel-mendez&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
 
 ## HARD SKILLS
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&labelColor=f0f0f0)]()
