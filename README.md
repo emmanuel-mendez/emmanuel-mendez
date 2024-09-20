@@ -1,8 +1,10 @@
 <h1 align="center"><a href="https://emmanuelmendez.netlify.app/" target="_blank" rel="noopener noreferrer">EMMANUEL MENDEZ</a></h1>
 
-I'm a web developer that love create landing pages, single-page applications, ecommerce, progressive web apps, SQL and NoSQL databases, REST APIs and GraphQL APIs.
+Computer Engineer with more than three years of experience creating high performant and user retention pages, sites and web applications using TypeScript and frontend frameworks such as Angular and React, managing global states with NgRx and Redux, documenting UI components in Storybook and unit testing them using Jest, Jasmine and Karma.
 
-I'm passionate about what I do and I like to share it with each person who comes here looking for inspiration. If you have questions on any subject send me a email, rest assured that if I don't know how to solve your problem I will help find the solution.
+Expert in using CSS frameworks and UI component libraries to style and enhance the UX of web applications, such as PostCSS, Sass, CSS Modules, Styled Components, Emotion, Bootstrap, Tailwind CSS and Angular Material.
+
+Able to write clean and scalable code applying best practices, programming principles, object-oriented programming, reactive programming with RxJS, functional programming, design patterns and atomic design.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=emmanuel-mendez&custom_title=Emmanuel%20Mendez's%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
 
@@ -39,13 +41,9 @@ And more...
 ![Stress resistance](https://img.shields.io/badge/Stress%20resistance-f0f0f0?style=for-the-badge)
 
 ## FIND ME
-[![Website](https://img.shields.io/badge/Website-emmanuelmendez.netlify.app-283e4a?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=f0f0f0)](https://emmanuelmendez.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-emmanuelmendez.github.io-283e4a?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=f0f0f0)](https://emmanuel-mendez.github.io/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f0f0f0)](https://www.linkedin.com/in/emmanelos/)
-</br>
-[![Facebook](https://img.shields.io/badge/Facebook-@emmanelos-1877F2?style=for-the-badge&logo=facebook&logoColor=black&labelColor=f0f0f0)](https://facebook.com/emmanelos)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@emmanelos-E4405F?style=for-the-badge&logo=instagram&logoColor=black&labelColor=f0f0f0)](https://instagram.com/emmanelos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f0f0f0)](https://www.linkedin.com/in/emmanuel-mendez-software-engineer/)
 
 ## CONTACT
-[![Email](https://img.shields.io/badge/emmanelosg@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=black&labelColor=f0f0f0)](mailto:emmanelosg@gmail.com)
+[![Email](https://img.shields.io/badge/emmanuelmendez.dev@outlook.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=black&labelColor=f0f0f0)](mailto:emmanuelmendez.dev@outlook.com)
